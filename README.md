@@ -25,7 +25,7 @@ I created several pivot tables to answer specific questions:
 - Highest-rated products  
 - Review counts by price range  
 
-![Pivot Tables](All Pivot analysis and answers to all question as analysed.xlsx)
+[All Pivot](https://github.com/user-attachments/files/21039287/All.Pivot.analysis.and.answers.to.all.question.as.analysed.xlsx)
 
 ### 3. Dashboard Creation  
 I combined the most useful charts and KPIs into one dashboard sheet. This included bar and pie charts showing category performance, top-rated products, and review count comparisons.  
