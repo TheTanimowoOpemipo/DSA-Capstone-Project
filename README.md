@@ -25,21 +25,16 @@ I created several pivot tables to answer specific questions:
 - Highest-rated products  
 - Review counts by price range  
 
-[Pivot Tables](Amazon.xlsx)
+![Pivot Tables](All Pivot analysis and answers to all question as analysed.xlsx)
 
-
-### 3. Formula-Based Insights  
-I used Excel formulas like `COUNTIF` and `AVERAGEIF` to do what pivot tables couldn’t. I grouped prices into custom bands (under 1000, 1000–10000, and above 10000) and analyzed review counts and average ratings for each band.  
-*Add screenshots of the formula outputs or result tables if needed.*
-
-### 4. Dashboard Creation  
+### 3. Dashboard Creation  
 I combined the most useful charts and KPIs into one dashboard sheet. This included bar and pie charts showing category performance, top-rated products, and review count comparisons.  
 *You can upload a screenshot of your final dashboard layout here.*
 
 ## Questions Answered
 
 **Q1. What is the average discount by product category?**  
-Answer: _[Insert finding or dashboard reference]_
+Answer: 
 
 **Q2. Which product got the most reviews?**  
 Answer: _[Insert top product name or ID]_
