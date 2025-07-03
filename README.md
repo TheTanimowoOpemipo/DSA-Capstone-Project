@@ -25,7 +25,8 @@ I created several pivot tables to answer specific questions:
 - Highest-rated products  
 - Review counts by price range  
 
-*You can include screenshots of your pivot tables.*
+[Pivot Tables](Amazon.xlsx)
+
 
 ### 3. Formula-Based Insights  
 I used Excel formulas like `COUNTIF` and `AVERAGEIF` to do what pivot tables couldn’t. I grouped prices into custom bands (under 1000, 1000–10000, and above 10000) and analyzed review counts and average ratings for each band.  
