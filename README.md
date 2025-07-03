@@ -29,7 +29,7 @@ I created several pivot tables to answer specific questions:
 
 ### 3. Dashboard Creation  
 I combined the most useful charts and KPIs into one dashboard sheet. This included bar and pie charts showing category performance, top-rated products, and review count comparisons.  
-*You can upload a screenshot of your final dashboard layout here.*
+![Amazon_Dashboard](https://github.com/user-attachments/assets/5f449eeb-b54c-4705-bdb9-2f704823f8a9)
 
 ## Questions Answered
 
