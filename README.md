@@ -1,3 +1,34 @@
+## Table of Contents
+
+- [Overview](#overview)
+- [Tools Used](#tools-used)
+- [Objective](#objective)
+- [Key Steps](#key-steps)
+  - [1. Data Cleaning](#1-data-cleaning)
+  - [2. Pivot Table Analysis](#2-pivot-table-analysis)
+  - [3. Dashboard Creation](#3-dashboard-creation)
+- [Questions Answered](#questions-answered)
+- [What I Learned](#what-i-learned)
+
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Tools Used](#tools-used)
+- [Objective](#objective)
+- [Key Steps](#key-steps)
+  - [1. Data Cleaning](#1-data-cleaning)
+  - [2. Data Modeling](#2-data-modeling)
+  - [3. Dashboard Development (4 Pages)](#3-dashboard-development-4-pages)
+    - [Page 1: Gender Overview](#page-1-gender-overview)
+    - [Page 2: Performance & Ratings](#page-2-performance--ratings)
+    - [Page 3: Salary Insights](#page-3-salary-insights)
+    - [Page 4: Bonus Allocation](#page-4-bonus-allocation)
+- [Key Measures and Calculations](#key-measures-and-calculations)
+- [Questions Answered](#questions-answered)
+- [What I Learned](#what-i-learned)
+
+
 # Amazon Product Review Analysis using Excel
 
 ## Overview  
